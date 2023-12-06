@@ -1,0 +1,9 @@
+---
+triple:          'arm64-apple-darwin'
+binary-path:     '/Users/eduardoandrade/Documents/PROGRACION I/Tarea Arreglos y Funciones/output/suma'
+relocations:
+  - { offsetInCU: 0x26, offset: 0x26, size: 0x8, addend: 0x0, symName: _Suma, symObjAddr: 0x0, symBinAddr: 0x100003984, symSize: 0xF8 }
+  - { offsetInCU: 0x41, offset: 0x41, size: 0x8, addend: 0x0, symName: _Suma, symObjAddr: 0x0, symBinAddr: 0x100003984, symSize: 0xF8 }
+  - { offsetInCU: 0xD5, offset: 0xD5, size: 0x8, addend: 0x0, symName: _ImprimirMatriz, symObjAddr: 0xF8, symBinAddr: 0x100003A7C, symSize: 0xD4 }
+  - { offsetInCU: 0x14D, offset: 0x14D, size: 0x8, addend: 0x0, symName: _main, symObjAddr: 0x1CC, symBinAddr: 0x100003B50, symSize: 0x374 }
+...
